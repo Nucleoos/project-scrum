@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f1be5bc-e4c7-4b33-ab35-3f91b99e6618" name="KOINA Dev" url="http://localhost">
+        <fileTransfer mountedRoot="O:\custom\addons9" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
