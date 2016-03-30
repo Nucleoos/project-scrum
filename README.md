@@ -12,4 +12,4 @@ Features
 * Has its own Calender for every Scrum Meeting
 * Half automed process of creation of new Sprint, meetings etc..
 
-![](/project_scrum/static/description/scrum_scheme2.png)
+![Scrum Framework](/project_scrum/static/description/scrum_scheme2.png)
