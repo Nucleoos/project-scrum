@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+.. image:: https://img.shields.io/badge/licence-LGPL--3-blue.svg
    :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
    :alt: License: LGPL-3
 
@@ -9,7 +9,9 @@ Project Scrum
 This module extends the functionality of Project to run projects as Scrum projects.
 Is supports User Stories, Sprints, Tasks incl. Backlog and Impediments as Issues.
 It allows to manage the relevant Scrum Meetings as Daily, Scrum planning, review and retrospective.
+
 It is a complete revamped version of the Scrum app from Vertel AB https://github.com/vertelab/odoo-project_scrum.
+
 THIS IS A BETA VERSION! You can use it at your own risk!
 
 Dependencies
