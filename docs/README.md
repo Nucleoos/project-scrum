@@ -7,6 +7,7 @@ This docs are WIP!
 Configuration in project view
 -----------------------------
 ![Project view](/docs/img/odoo-project_scrum_color-def.png)
+
 You have to define the Scrum settings for your project in the Scrum tab!
 
 1. Field: Number of team members
