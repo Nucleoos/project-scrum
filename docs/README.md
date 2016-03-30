@@ -6,7 +6,7 @@ This docs are WIP!
 
 Configuration in project view
 -----------------------------
-![Project view](/img/odoo-project_scrum_color-def.png)
+![Project view](/docs/img/odoo-project_scrum_color-def.png)
 You have to define the Scrum settings for your project in the Scrum tab!
 
 1. Field: Number of team members
@@ -24,7 +24,7 @@ You cab adapt specific default text for each meeting type in the tab Color Defin
 Framework
 ------------
 
-![framework](/img/scrum_framework_tables_1.png)
+![framework](/docs/img/scrum_framework_tables_1.png)
 
 
 
